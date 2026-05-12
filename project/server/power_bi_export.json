@@ -1,0 +1,219 @@
+{
+  "salaryData": [
+    {
+      "title": "Data Scientist",
+      "min": 800000,
+      "max": 2200000,
+      "location": "Bangalore",
+      "company": "Acclaim Consultants"
+    },
+    {
+      "title": "Data Scientist",
+      "min": 800000,
+      "max": 2200000,
+      "location": "Bangalore",
+      "company": "ADM"
+    },
+    {
+      "title": "Data Scientist",
+      "min": 800000,
+      "max": 2200000,
+      "location": "India",
+      "company": "v4c.ai"
+    },
+    {
+      "title": "Data Scientist",
+      "min": 800000,
+      "max": 2200000,
+      "location": "Bangalore",
+      "company": "DevOn"
+    },
+    {
+      "title": "Data Scientist",
+      "min": 800000,
+      "max": 2200000,
+      "location": "Bangalore",
+      "company": "InfoCepts"
+    },
+    {
+      "title": "Data Science",
+      "location": "Hyderabad",
+      "company": "Mondee"
+    },
+    {
+      "title": "Data Scientist",
+      "min": 800000,
+      "max": 2200000,
+      "location": "Hyderabad",
+      "company": "CoffeeBeans"
+    },
+    {
+      "title": "Data Scientist",
+      "min": 800000,
+      "max": 2200000,
+      "location": "Bangalore",
+      "company": "AB InBev GCC India"
+    },
+    {
+      "title": "Data Scientist",
+      "min": 800000,
+      "max": 2200000,
+      "location": "India",
+      "company": "Dhurin"
+    },
+    {
+      "title": "Data Scientist",
+      "min": 800000,
+      "max": 2200000,
+      "location": "Mumbai",
+      "company": "Tata Consultancy Services"
+    },
+    {
+      "title": "Software Engineer",
+      "min": 600000,
+      "max": 1800000,
+      "location": "Hyderabad",
+      "company": "AllianceIT Inc"
+    },
+    {
+      "title": "Software Engineer",
+      "min": 600000,
+      "max": 1800000,
+      "location": "Pune",
+      "company": "Newgen Software"
+    },
+    {
+      "title": "Software Engineer",
+      "min": 600000,
+      "max": 1800000,
+      "location": "Richmond Town",
+      "company": "Cargill"
+    },
+    {
+      "title": "Software Engineer",
+      "min": 600000,
+      "max": 1800000,
+      "location": "Pune",
+      "company": "Alp Consulting Ltd."
+    },
+    {
+      "title": "Software Engineer",
+      "min": 600000,
+      "max": 1800000,
+      "location": "Hyderabad",
+      "company": "Stolt-Nielsen Digital Innovation Centre"
+    },
+    {
+      "title": "Software Engineer",
+      "min": 600000,
+      "max": 1800000,
+      "location": "Pune",
+      "company": "OpenGov Inc."
+    },
+    {
+      "title": "Software Engineer",
+      "min": 600000,
+      "max": 1800000,
+      "location": "Bangalore",
+      "company": "Sedgwick India"
+    },
+    {
+      "title": "Software Engineer",
+      "min": 600000,
+      "max": 1800000,
+      "location": "Mumbai",
+      "company": "Insight Global"
+    },
+    {
+      "title": "Software Engineer",
+      "min": 600000,
+      "max": 1800000,
+      "location": "Bangalore",
+      "company": "HME"
+    },
+    {
+      "title": "Software Engineer",
+      "min": 600000,
+      "max": 1800000,
+      "location": "Pune",
+      "company": "eQ Technologic"
+    },
+    {
+      "title": "Data Analyst",
+      "min": 450000,
+      "max": 1200000,
+      "location": "Hyderabad",
+      "company": "Fuzen IT Solutions"
+    },
+    {
+      "title": "Data Analyst",
+      "min": 450000,
+      "max": 1200000,
+      "location": "Chennai",
+      "company": "JiBe ERP"
+    },
+    {
+      "title": "Data Analyst",
+      "min": 450000,
+      "max": 1200000,
+      "location": "India",
+      "company": "Gabeo.ai"
+    },
+    {
+      "title": "Data Analyst",
+      "min": 450000,
+      "max": 1200000,
+      "location": "Hyderabad",
+      "company": "Aptita"
+    },
+    {
+      "title": "Data Analyst",
+      "min": 450000,
+      "max": 1200000,
+      "location": "Hyderabad",
+      "company": "Tata Consultancy Services"
+    },
+    {
+      "title": "Data Analyst",
+      "min": 450000,
+      "max": 1200000,
+      "location": "India",
+      "company": "noon"
+    },
+    {
+      "title": "Data Analyst",
+      "min": 450000,
+      "max": 1200000,
+      "location": "India",
+      "company": "Black Panda Enterprises"
+    },
+    {
+      "title": "Data Analyst",
+      "min": 450000,
+      "max": 1200000,
+      "location": "Bangalore",
+      "company": "Mphasis"
+    },
+    {
+      "title": "Data Analyst",
+      "min": 450000,
+      "max": 1200000,
+      "location": "India",
+      "company": "de facto Infotech"
+    },
+    {
+      "title": "Data Analyst",
+      "min": 450000,
+      "max": 1200000,
+      "location": "India",
+      "company": "Flexi Pitches-"
+    }
+  ],
+  "skillData": [
+    {
+      "skill": "algorithms",
+      "demandCount": 1,
+      "demandPct": "3.3"
+    }
+  ]
+}

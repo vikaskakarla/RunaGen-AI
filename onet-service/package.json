@@ -1,0 +1,27 @@
+{
+  "name": "onet-data-service",
+  "version": "1.0.0",
+  "description": "Standalone O*NET data integration service",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node src/test-connection.js",
+    "import": "node src/importer.js",
+    "import:test": "node src/importer.js --limit 10",
+    "import:2000": "node src/importer.js --limit 2000",
+    "import:all": "node src/importer.js",
+    "stats": "node src/check-stats.js"
+  },
+  "keywords": ["onet", "career", "occupations", "api"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.18.1"
+  }
+}
