@@ -2,17 +2,17 @@
   <img src="project/public/runagen-logo.svg" alt="RunaGen AI Logo" width="200" height="200">
 </div>
 
-# ðŸš€ RunaGen AI Career Companion
+# 🚀 RunaGen AI Career Companion
 ## Google Cloud Gen AI Exchange Hackathon 2025
 
 > **A comprehensive career development platform powered by Google Cloud's Gemini AI, featuring intelligent resume analysis, personalized learning roadmaps, and interactive career simulations.**
 
 ### Live Demo
-[RunaGen AI Prototype â€” Live Link](https://classy-llama-a6740f.netlify.app/)
+[RunaGen AI Prototype — Live Link](https://classy-llama-a6740f.netlify.app/)
 
-[RunaGen AI Prototype â€” Demo Video Link](https://drive.google.com/file/d/1zAdDNFjA5LxxSZDx6IDi_qfXwdP3NT18/view)
+[RunaGen AI Prototype — Demo Video Link](https://drive.google.com/file/d/1zAdDNFjA5LxxSZDx6IDi_qfXwdP3NT18/view)
 
-[RunaGen AI Prototype â€” Presentation Deck]( https://storage.googleapis.com/vision-hack2skill-production/innovator/USER00748815/1758477799496-GenAIExchangeHackathonPrototypeSubmission11.pdf)
+[RunaGen AI Prototype — Presentation Deck]( https://storage.googleapis.com/vision-hack2skill-production/innovator/USER00748815/1758477799496-GenAIExchangeHackathonPrototypeSubmission11.pdf)
 
 
 Note: The backend currently runs on `http://localhost:3001`. To fully test the prototype, open the project in VS Code and run the backend locally as described in the Quick Start section.
@@ -21,11 +21,11 @@ Note: The backend currently runs on `http://localhost:3001`. To fully test the p
 
 ---
 
-## ðŸŽ¯ **Project Overview**
+## 🎯 **Project Overview**
 
 AI Career Companion is an innovative career development platform that leverages Google Cloud's Gemini AI to provide personalized career guidance, skill gap analysis, and interactive learning experiences. The platform helps users identify career opportunities, create personalized learning roadmaps, and practice real-world scenarios through AI-powered simulations.
 
-### **ðŸ† Hackathon Focus**
+### **🏆 Hackathon Focus**
 This project demonstrates the power of Google Cloud's Generative AI services, specifically:
 - **Gemini 2.5 Flash** for intelligent content generation
 - **Vertex AI** for advanced AI capabilities
@@ -34,7 +34,7 @@ This project demonstrates the power of Google Cloud's Generative AI services, sp
 
 ---
 
-## ðŸ› ï¸ **Tech Stack**
+## 🛠️ **Tech Stack**
 
 ### **Frontend**
 - **React 18** with TypeScript
@@ -63,63 +63,63 @@ This project demonstrates the power of Google Cloud's Generative AI services, sp
 
 ---
 
-## âœ¨ **Key Features**
+## ✨ **Key Features**
 
-### **ðŸŽ¯ Working Features**
+### **🎯 Working Features**
 
 #### **1. AI-Powered Resume Analysis**
-- âœ… **PDF/Word/PowerPoint/Image parsing** with intelligent text extraction
-- âœ… **Gemini-powered skill extraction** using RAG
-- âœ… **Job role auto-detection** with confidence scoring
-- âœ… **Skills gap analysis** with priority-based recommendations
-- âœ… **Job matching** with compatibility scores
+- ✅ **PDF/Word/PowerPoint/Image parsing** with intelligent text extraction
+- ✅ **Gemini-powered skill extraction** using RAG
+- ✅ **Job role auto-detection** with confidence scoring
+- ✅ **Skills gap analysis** with priority-based recommendations
+- ✅ **Job matching** with compatibility scores
 
 #### **2. Personalized Learning Roadmaps**
-- âœ… **3-stage skill gap analysis** (Critical, Important, Nice-to-have)
-- âœ… **YouTube video integration** with real-time search
-- âœ… **Exam preparation** with certification recommendations
-- âœ… **Practice projects** with skill development tracking
-- âœ… **Learning platform suggestions** (Coursera, Udemy, etc.)
+- ✅ **3-stage skill gap analysis** (Critical, Important, Nice-to-have)
+- ✅ **YouTube video integration** with real-time search
+- ✅ **Exam preparation** with certification recommendations
+- ✅ **Practice projects** with skill development tracking
+- ✅ **Learning platform suggestions** (Coursera, Udemy, etc.)
 
 #### **3. AI Career Mentor**
-- âœ… **Conversational AI mentor** powered by Gemini
-- âœ… **Context-aware responses** using RAG
-- âœ… **Resume analysis integration** for personalized advice
-- âœ… **Conversation history** with MongoDB persistence
-- âœ… **Badge system** for engagement tracking
+- ✅ **Conversational AI mentor** powered by Gemini
+- ✅ **Context-aware responses** using RAG
+- ✅ **Resume analysis integration** for personalized advice
+- ✅ **Conversation history** with MongoDB persistence
+- ✅ **Badge system** for engagement tracking
 
 #### **4. Career Simulations**
-- âœ… **Interactive scenarios** for different career paths
-- âœ… **Skill-based challenges** with real-time feedback
-- âœ… **Progress tracking** and completion metrics
-- âœ… **Simulation templates** for various roles
+- ✅ **Interactive scenarios** for different career paths
+- ✅ **Skill-based challenges** with real-time feedback
+- ✅ **Progress tracking** and completion metrics
+- ✅ **Simulation templates** for various roles
 
 #### **5. Data Persistence**
-- âœ… **MongoDB integration** for all user data
-- âœ… **File storage** with automatic cleanup
-- âœ… **User session management**
-- âœ… **Conversation history** with search capabilities
+- ✅ **MongoDB integration** for all user data
+- ✅ **File storage** with automatic cleanup
+- ✅ **User session management**
+- ✅ **Conversation history** with search capabilities
 
-### **âš ï¸ Features with Limitations**
+### **⚠️ Features with Limitations**
 
 #### **1. YouTube Integration**
-- âš ï¸ **Mock data fallback** when API key not configured
-- âš ï¸ **Rate limiting** on YouTube API calls
-- âœ… **Real video links** when API key is provided
+- ⚠️ **Mock data fallback** when API key not configured
+- ⚠️ **Rate limiting** on YouTube API calls
+- ✅ **Real video links** when API key is provided
 
 #### **2. AI Services**
-- âš ï¸ **Fallback mechanisms** when Gemini API is unavailable
-- âš ï¸ **Error handling** with graceful degradation
-- âœ… **Multiple AI service layers** for reliability
+- ⚠️ **Fallback mechanisms** when Gemini API is unavailable
+- ⚠️ **Error handling** with graceful degradation
+- ✅ **Multiple AI service layers** for reliability
 
 #### **3. File Processing**
-- âš ï¸ **Limited image processing** capabilities
-- âš ï¸ **Complex document parsing** may need refinement
-- âœ… **PDF and text processing** working well
+- ⚠️ **Limited image processing** capabilities
+- ⚠️ **Complex document parsing** may need refinement
+- ✅ **PDF and text processing** working well
 
 ---
 
-## ðŸš€ **Quick Start**
+## 🚀 **Quick Start**
 
 ### **Prerequisites**
 - Node.js 18+
@@ -183,7 +183,7 @@ This project demonstrates the power of Google Cloud's Generative AI services, sp
 
 ---
 
-## ðŸ”§ **API Endpoints**
+## 🔧 **API Endpoints**
 
 ### **Resume Analysis**
 - `POST /upload_resume` - Upload and analyze resume
@@ -212,7 +212,7 @@ This project demonstrates the power of Google Cloud's Generative AI services, sp
 
 ---
 
-## ðŸ—„ï¸ **Database Schema**
+## 🗄️ **Database Schema**
 
 ### **Analysis Model**
 ```javascript
@@ -258,7 +258,7 @@ This project demonstrates the power of Google Cloud's Generative AI services, sp
 
 ---
 
-## ðŸŽ¨ **UI/UX Features**
+## 🎨 **UI/UX Features**
 
 ### **Modern Dashboard**
 - **Responsive design** with Tailwind CSS
@@ -280,7 +280,7 @@ This project demonstrates the power of Google Cloud's Generative AI services, sp
 
 ---
 
-## ðŸ” **AI Implementation Details**
+## 🔍 **AI Implementation Details**
 
 ### **RAG (Retrieval-Augmented Generation)**
 - **Vector embeddings** for semantic search
@@ -302,7 +302,7 @@ This project demonstrates the power of Google Cloud's Generative AI services, sp
 
 ---
 
-## ðŸ§ª **Testing & Quality**
+## 🧪 **Testing & Quality**
 
 ### **Error Handling**
 - **Comprehensive try-catch blocks** throughout the application
@@ -318,7 +318,7 @@ This project demonstrates the power of Google Cloud's Generative AI services, sp
 
 ---
 
-## ðŸš§ **Known Limitations**
+## 🚧 **Known Limitations**
 
 ### **Current Issues**
 1. **YouTube API Rate Limiting** - May hit limits with high usage
@@ -334,7 +334,7 @@ This project demonstrates the power of Google Cloud's Generative AI services, sp
 
 ---
 
-## ðŸ¤ **Contributing**
+## 🤝 **Contributing**
 
 ### **Development Setup**
 1. Fork the repository
@@ -351,13 +351,13 @@ This project demonstrates the power of Google Cloud's Generative AI services, sp
 
 ---
 
-## ðŸ“„ **License**
+## 📄 **License**
 
 This project is developed for the Google Cloud Gen AI Exchange Hackathon 2024. All rights reserved.
 
 ---
 
-## ðŸ† **Hackathon Submission**
+## 🏆 **Hackathon Submission**
 
 ### **Innovation Highlights**
 - **Advanced RAG Implementation** with vector search
@@ -380,14 +380,13 @@ This project is developed for the Google Cloud Gen AI Exchange Hackathon 2024. A
 
 ---
 
-## ðŸ“ž **Support**
+## 📞 **Support**
 
 For questions or issues:
 - **GitHub Issues** - Report bugs and feature requests
 - **Documentation** - Comprehensive API and setup guides
 - **Demo Video** - Watch the application in action
 
----
 ---
 
 **Built with ❤️ for Google Cloud Gen AI Exchange Hackathon 2025**
